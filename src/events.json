@@ -1,0 +1,73 @@
+[
+    {
+      "title": "John's Birthday",
+      "date": "2025-05-10",
+      "time": "10:00 AM",
+      "duration": "2 hours",
+      "category": "birthday",
+      "location": "John's House, 123 Street Name, City",
+      "description": "A fun-filled birthday celebration with friends and family.",
+      "allDay": false
+    },
+    {
+      "title": "Team Meeting",
+      "date": "2025-05-12",
+      "time": "2:00 PM",
+      "duration": "1 hour",
+      "category": "meeting",
+      "location": "Conference Room 1, Office HQ",
+      "description": "Discuss project updates, deadlines, and team goals.",
+      "allDay": false
+    },
+    {
+      "title": "National Holiday",
+      "date": "2025-05-15",
+      "time": "All day",
+      "duration": "N/A",
+      "category": "holiday",
+      "location": "Nationwide",
+      "description": "A public holiday to celebrate National Independence Day.",
+      "allDay": true
+    },
+    {
+      "title": "Deadline for Project Submission",
+      "date": "2025-05-20",
+      "time": "11:59 PM",
+      "duration": "N/A",
+      "category": "deadline",
+      "location": "Online Submission Portal",
+      "description": "Final date to submit the project proposal for approval.",
+      "allDay": false
+    },
+    {
+      "title": "Social Gathering at Park",
+      "date": "2025-05-18",
+      "time": "4:00 PM",
+      "duration": "3 hours",
+      "category": "social",
+      "location": "Central Park, City",
+      "description": "A casual gathering with friends for games and snacks.",
+      "allDay": false
+    },
+    {
+      "title": "Company Annual General Meeting",
+      "date": "2025-05-25",
+      "time": "10:00 AM",
+      "duration": "2 hours",
+      "category": "meeting",
+      "location": "Main Office Building, Room 101",
+      "description": "Annual meeting for shareholders and board members to discuss company performance.",
+      "allDay": false
+    },
+    {
+      "title": "Christmas Holiday",
+      "date": "2025-12-25",
+      "time": "All day",
+      "duration": "N/A",
+      "category": "holiday",
+      "location": "Worldwide",
+      "description": "A global holiday celebrating the birth of Jesus Christ.",
+      "allDay": true
+    }
+  ]
+  

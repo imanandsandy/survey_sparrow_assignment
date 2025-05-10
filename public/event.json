@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Team Meeting",
+      "date": "2025-05-10",
+      "time": "10:00",
+      "duration": "1h"
+    },
+    {
+      "id": 2,
+      "title": "Project Review",
+      "date": "2025-05-15",
+      "time": "14:00",
+      "duration": "30m"
+    },
+    {
+      "id": 3,
+      "title": "Demo Day",
+      "date": "2025-05-15",
+      "time": "14:00",
+      "duration": "1h"
+    }
+  ]
+  
